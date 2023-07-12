@@ -18,7 +18,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Depository
+[Heroku](https://safe-shelf-80683-3dfb2eba4d8a.herokuapp.com/notes)
+
+[Github](https://github.com/zoeedge16/note-taker)
 
 ## Screenshot
+![screenshot](./image/Note-taker-home.png)
 
 
+![screenshot](./image/Note-taker.png)
